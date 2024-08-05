@@ -13,8 +13,8 @@ public class Ex014 {
         System.out.println("Valor A: " + valorA + "\nValor B: " + valorB);
         valorA = valorB;
         valorB = valorAux;
-        System.out.println("          |           ");
-        System.out.println("          V           ");
+        System.out.println("    |     ");
+        System.out.println("    V     ");
         System.out.println("Valor A: "+ valorA + "\nValor B: " + valorB);
     }
 }
